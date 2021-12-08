@@ -1,9 +1,0 @@
-scikit-image
-opencv-python
-natsort
-nd2reader
-scikit-learn
-tensorboard
-pandas
-segmentation_models_pytorch
-albumentations
